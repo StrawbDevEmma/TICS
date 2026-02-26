@@ -1,4 +1,4 @@
-# TICS - TICS Isn't Closed Source
+# TICS-TUI - TICS Isn't Closed Source
 
 **TICS** is a free and open-source Terminal User Interface (TUI) frontend for **pyMC_Repeater**. Unlike proprietary alternatives, TICS is fully transparent, community-driven, and accessible to all users.
 
@@ -32,7 +32,7 @@ TICS provides a modern, efficient TUI-based interface for managing and interacti
 
 ```bash
 # Clone the repository
-git clone https://github.com/StrawbDevEmma/TICS.git
+git clone https://github.com/StrawbDevEmma/TICS-TUI.git
 cd TICS
 
 # Install TICS
@@ -64,7 +64,7 @@ For detailed usage documentation, see [USAGE.md](USAGE.md).
 
 ```bash
 # Clone the repository
-git clone https://github.com/StrawbDevEmma/TICS.git
+git clone https://github.com/StrawbDevEmma/TICS-TUI.git
 cd TICS
 
 # Create virtual environment
