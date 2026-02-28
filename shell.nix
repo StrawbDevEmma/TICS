@@ -10,6 +10,7 @@ pkgs.mkShellNoCC {
       pytest-cov
       pytest-mock
       pytest-asyncio
+      requests
       textual
       textual-dev
     ]))
